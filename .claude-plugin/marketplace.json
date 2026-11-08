@@ -1,0 +1,14 @@
+{
+  "name": "arkangel-ai",
+  "owner": {
+    "name": "Arkangel AI",
+    "url": "https://arkangel.ai"
+  },
+  "plugins": [
+    {
+      "name": "arkangel-ai",
+      "source": "./claude-plugin",
+      "description": "Free read-only health tools for clinicians and medical auditors: ICD-10, CUPS, clinical calculators and claims audit (CO/MX/PE)."
+    }
+  ]
+}

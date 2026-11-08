@@ -1,0 +1,12 @@
+{
+  "name": "arkangel-ai",
+  "version": "0.5.0",
+  "description": "Free read-only health tools for clinicians and medical auditors: ICD-10, CUPS, clinical calculators and claims audit (CO/MX/PE).",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "arkangel": {
+      "httpUrl": "https://arkangel.ai/mcp?src=gemini",
+      "timeout": 30000
+    }
+  }
+}
